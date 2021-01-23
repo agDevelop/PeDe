@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a530ee4b72cd0e64e9b2d6c7487a5e77, type: 3}
+  m_Name: ch1_dorm_2
+  m_EditorClassIdentifier: 
+  caracterId: 1
+  expression: 3
+  clothes: 5
+  char_visible: 1
+  background: 0
+  _text: "\u0422\u044B \u043D\u043E\u0432\u0435\u043D\u044C\u043A\u0438\u0439 \u0432
+    \u044D\u0442\u043E\u043C \u0443\u043D\u0438\u0432\u0435\u0440\u0435?"
+  way: 0
+  n_message: ...
+  nextData: {fileID: 11400000, guid: 6cc8882f1341e6345ad4cc4fceadb4fa, type: 2}
+  a1_message: 1
+  a1_data: {fileID: 0}
+  a2_message: 2
+  a2_data: {fileID: 0}
+  a3_message: 3
+  a3_data: {fileID: 0}
+  m_message: "\u041D\u0430\u0447\u0430\u0442\u044C"
+  s_message: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+  sceneID: 0

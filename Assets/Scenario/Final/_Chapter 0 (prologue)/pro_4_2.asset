@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a530ee4b72cd0e64e9b2d6c7487a5e77, type: 3}
+  m_Name: pro_4_2
+  m_EditorClassIdentifier: 
+  caracterId: 2
+  expression: 14
+  clothes: 9
+  char_visible: 1
+  background: 0
+  _text: "<i>*\u043D\u0430\u0447\u0438\u043D\u0430\u0435\u0442 \u0441\u043D\u0438\u043C\u0430\u0442\u044C
+    \u043F\u0438\u0436\u0430\u043C\u0443*</i>"
+  way: 1
+  n_message: ...
+  nextData: {fileID: 0}
+  a1_message: "<i>\u041F\u043E\u043C\u043E\u0447\u044C</i>"
+  a1_data: {fileID: 11400000, guid: 3cd0b3ac52821af4e968fe7376265a06, type: 2}
+  a2_message: "<i>\u041E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0435\u0451</i>"
+  a2_data: {fileID: 11400000, guid: e04c1ce24113792419c05fda2517b5fe, type: 2}
+  a3_message: "<i>\u0420\u0430\u0437\u0432\u0435\u044F\u0442\u044C \u0441\u043E\u043D</i>"
+  a3_data: {fileID: 11400000, guid: 169e05b3416a9bf4393c2106c1bdc140, type: 2}
+  m_message: "\u041D\u0430\u0447\u0430\u0442\u044C"
+  s_message: "<i>\u041F\u043B\u0430\u043A</i>"
+  sceneID: -1

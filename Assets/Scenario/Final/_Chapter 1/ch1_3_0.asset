@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a530ee4b72cd0e64e9b2d6c7487a5e77, type: 3}
+  m_Name: ch1_3_0
+  m_EditorClassIdentifier: 
+  caracterId: 2
+  expression: 12
+  clothes: 8
+  char_visible: 1
+  background: 1
+  _text: "<b>\u0414\u0443\u0440\u0430\u043A! \u041E\u0442\u0447\u0438\u0441\u043B\u0435\u043D!</b>"
+  way: 0
+  n_message: ...
+  nextData: {fileID: 11400000, guid: bc5d28238687e0f48b9d2c2d1a900506, type: 2}
+  a1_message: 1
+  a1_data: {fileID: 0}
+  a2_message: 2
+  a2_data: {fileID: 0}
+  a3_message: 3
+  a3_data: {fileID: 0}
+  m_message: "\u041D\u0430\u0447\u0430\u0442\u044C"
+  s_message: 
+  sceneID: -1
